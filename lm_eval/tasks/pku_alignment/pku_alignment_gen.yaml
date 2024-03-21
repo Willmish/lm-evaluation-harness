@@ -1,0 +1,5 @@
+task: pku_alignment_gen
+dataset_path: pku_alignment/PKU-SafeRLHF
+dataset_name: test
+dataset_kwargs: null
+output_type: generate_until
